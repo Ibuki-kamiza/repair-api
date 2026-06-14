@@ -61,3 +61,5 @@ URL：/repairs/{id}
 
 レスポンス例：
 削除しました
+
+課題3 Pull Request確認用
